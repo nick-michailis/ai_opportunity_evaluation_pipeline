@@ -159,7 +159,8 @@ Example of the generated AI Opportunity Assessment:
 - Clear prioritization  
 - Executive-ready presentation  
 
-<img width="1000" src="ai-opportunity-assessment-preview" />
+<img width="1000" src="ai-opportunity-assessment-preview.png" />
+📄 Full PDF: [Download AI Opportunity Assessment](ai-opportunity-assessment.pdf)
 
 ---
 
