@@ -1,6 +1,3 @@
-# ai-opportunity-scanner
-AI-powered business process evaluation, ROI estimation & executive PDF generation using n8n and OpenAI.
-
 ---
 
 # 🚀 AI Opportunity Scanner (Business Process → AI Scoring → Executive PDF)
